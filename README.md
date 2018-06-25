@@ -1,2 +1,2 @@
-# tr-geojson
-Türkiye için GeoJSON verileri
+# TR GeoJSON
+Türkiye için GeoJSON verileri.
